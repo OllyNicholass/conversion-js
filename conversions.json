@@ -1,0 +1,24 @@
+[
+  {
+    "name": "length",
+    "compareValue": "mm",
+    "values": [
+      ["mm", 1, 1],
+      ["cm", 1, 10],
+      ["m", 1, 1000],
+      ["inches", 1, 25.4],
+      ["feet", 1, 304.8]
+    ]
+  },
+  {
+    "name": "speed",
+    "compareValue": "kph",
+    "values": [
+      ["km/h", 1, 1],
+      ["mph", 1, 1.60934],
+      ["knot", 1, 1.852],
+      ["m/s", 1, 3.6],
+      ["ft/s", 1, 1.09728]
+    ]
+  }
+]
